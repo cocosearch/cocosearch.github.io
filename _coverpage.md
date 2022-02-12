@@ -1,4 +1,4 @@
-# cocosearch <small>1.0</small>
+# cocosearch <small>0.1</small>
 
 A code search engine
 
